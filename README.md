@@ -1,6 +1,6 @@
 ## Задание № 2:
 В этом задании было необходимо написать веб-сервис, который будет использовать модель из части 1 для того, чтобы отдавать предикты на картинки.
-Первое задание [ссылка](https://gitlab.deepschool.ru/cvr-aug23/a.kondakov/hw-01-modeling)
+Первое задание [ссылка](https://github.com/ArtyomKondakov/multilabel-classification--pipelines)
 
 ### Настройка окружения
 
